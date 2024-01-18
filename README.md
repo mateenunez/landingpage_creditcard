@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### **Landing page de tarjeta de crédito (Mastercard)**
 
-## Getting Started
+Esta página basada en Mastercard es una página de estilo "_landing page_", con animaciones y efectos en los textos a medida de que el usuario ve en pantalla.
 
-First, run the development server:
+### Cuenta con una navegación y pie de página animados, y además tiene tres bloques donde "Mastercard" da información sobre sus tarjetas.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+(_Video del primer contacto de la página, donde se ve la navegación, el primer y segundo bloque._)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://github.com/mateenunez/landingpage_creditcard/assets/62401255/a9f5bc7f-e09c-4532-be87-e37333d71a3b
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### En esta página use _react-icons, framer-motion y swiper_ lo cual me sirvió para realizar el tercer bloque, el cual contiene un deslizador de tarjetas de crédito.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+(_Video donde puede verse el tercer bloque con el slider._)
 
-## Learn More
+https://github.com/mateenunez/landingpage_creditcard/assets/62401255/d2d7b281-159c-465c-9e88-b3d464bc0b50
 
-To learn more about Next.js, take a look at the following resources:
+### Y por último el pié de página con los links y redes sociales.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+(_Video del pié de página o footer._)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://github.com/mateenunez/landingpage_creditcard/assets/62401255/56566391-8910-430f-b772-f937ba902326
